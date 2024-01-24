@@ -15,10 +15,10 @@ The Housie Ticket Generator is a MATLAB program that creates randomized Housie (
 4. Five Numbers per row
 
 ## About program
-We create 3x9 binary matrix where each row contains five 1s and each column contains atleast one 1.
-Next create another 3x9 matrix using randperm command according to rule number 2 column range.
-Multiply the above two matrices.
-Sort the non-zero elements column-wise and replace all 0s with blank.
+* We create 3x9 binary matrix where each row contains five 1s and each column contains atleast one 1.
+* Next create another 3x9 matrix using randperm command according to rule number 2 column range.
+* Multiply the above two matrices.
+* Sort the non-zero elements column-wise and replace all 0s with blank.
 
 ## Output
 
